@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sale_id: MyString
+  sale_price: 1.5
+  buyer_id: MyString
+  cashback_value: 1.5
+  customer: one
+  coupon: one
+
+two:
+  sale_id: MyString
+  sale_price: 1.5
+  buyer_id: MyString
+  cashback_value: 1.5
+  customer: two
+  coupon: two
